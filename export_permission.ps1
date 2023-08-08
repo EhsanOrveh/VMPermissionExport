@@ -21,6 +21,6 @@ foreach($vmname in $allvm)
         $role >> path on your local computer to save permissions\$vmname.txt
         $user = $per[$i].Principal
         #path on your computer
-        $user >> path on your local computer to save permissions\new\$vmname.txt
+        $user >> path on your local computer to save permissions\$vmname.txt
     }
 }
